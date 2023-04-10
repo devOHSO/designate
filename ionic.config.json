@@ -1,0 +1,8 @@
+{
+  "name": "Designate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "e055e4f2"
+}
